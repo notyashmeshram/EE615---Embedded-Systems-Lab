@@ -1,0 +1,8 @@
+
+**** Build of configuration Debug__TI for project Lab1_2 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+gmake[1]: 'Lab1_2.out' is up to date.
+
+**** Build Finished ****

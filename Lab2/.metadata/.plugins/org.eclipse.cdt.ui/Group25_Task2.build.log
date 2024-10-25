@@ -1,0 +1,8 @@
+
+**** Build of configuration Debug for project Group25_Task2 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+gmake[1]: 'Group25_Task2.out' is up to date.
+
+**** Build Finished ****

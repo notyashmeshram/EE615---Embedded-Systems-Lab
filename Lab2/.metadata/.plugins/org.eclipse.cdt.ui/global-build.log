@@ -1,0 +1,497 @@
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../tm4c123gh6pm_startup_ccs.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="tm4c123gh6pm_startup_ccs.d_raw"  "../tm4c123gh6pm_startup_ccs.c"
+Finished building: "../tm4c123gh6pm_startup_ccs.c"
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+Finished building: "../main.c"
+ 
+Building target: "Group25_Task1.out"
+Invoking: Arm Linker
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"Group25_Task1.map" --heap_size=0 --stack_size=512 -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/lib" -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Group25_Task1_linkInfo.xml" --rom_model -o "Group25_Task1.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -llibc.a 
+<Linking>
+Finished building target: "Group25_Task1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+gmake[1]: 'Group25_Task1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+Finished building: "../main.c"
+ 
+Building target: "Group25_Task1.out"
+Invoking: Arm Linker
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"Group25_Task1.map" --heap_size=0 --stack_size=512 -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/lib" -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Group25_Task1_linkInfo.xml" --rom_model -o "Group25_Task1.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -llibc.a 
+<Linking>
+Finished building target: "Group25_Task1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+gmake[1]: 'Group25_Task1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+gmake[1]: 'Group25_Task1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+Finished building: "../main.c"
+ 
+Building target: "Group25_Task1.out"
+Invoking: Arm Linker
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"Group25_Task1.map" --heap_size=0 --stack_size=512 -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/lib" -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Group25_Task1_linkInfo.xml" --rom_model -o "Group25_Task1.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -llibc.a 
+<Linking>
+Finished building target: "Group25_Task1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+Finished building: "../main.c"
+ 
+Building target: "Group25_Task1.out"
+Invoking: Arm Linker
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"Group25_Task1.map" --heap_size=0 --stack_size=512 -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/lib" -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Group25_Task1_linkInfo.xml" --rom_model -o "Group25_Task1.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -llibc.a 
+<Linking>
+Finished building target: "Group25_Task1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+gmake[1]: 'Group25_Task1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+Finished building: "../main.c"
+ 
+Building target: "Group25_Task1.out"
+Invoking: Arm Linker
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"Group25_Task1.map" --heap_size=0 --stack_size=512 -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/lib" -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Group25_Task1_linkInfo.xml" --rom_model -o "Group25_Task1.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -llibc.a 
+<Linking>
+Finished building target: "Group25_Task1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+gmake[1]: 'Group25_Task1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+Finished building: "../main.c"
+ 
+Building target: "Group25_Task1.out"
+Invoking: Arm Linker
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"Group25_Task1.map" --heap_size=0 --stack_size=512 -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/lib" -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Group25_Task1_linkInfo.xml" --rom_model -o "Group25_Task1.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -llibc.a 
+<Linking>
+Finished building target: "Group25_Task1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+gmake[1]: 'Group25_Task1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+Finished building: "../main.c"
+ 
+Building target: "Group25_Task1.out"
+Invoking: Arm Linker
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"Group25_Task1.map" --heap_size=0 --stack_size=512 -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/lib" -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Group25_Task1_linkInfo.xml" --rom_model -o "Group25_Task1.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -llibc.a 
+<Linking>
+Finished building target: "Group25_Task1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+gmake[1]: 'Group25_Task1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+ 
+>> Compilation failure
+subdir_rules.mk:7: recipe for target 'main.obj' failed
+"../main.c", line 56: error #1489: GCC && operator not supported
+"../main.c", line 56: error #29: expected an expression
+"../main.c", line 64: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 64: error #66: expected a ";"
+"../main.c", line 64: error #1489: GCC && operator not supported
+"../main.c", line 64: error #29: expected an expression
+"../main.c", line 72: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 72: error #66: expected a ";"
+6 errors detected in the compilation of "../main.c".
+gmake: *** [main.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+ 
+>> Compilation failure
+subdir_rules.mk:7: recipe for target 'main.obj' failed
+"../main.c", line 56: error #1489: GCC && operator not supported
+"../main.c", line 56: error #29: expected an expression
+"../main.c", line 64: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 64: error #66: expected a ";"
+"../main.c", line 64: error #1489: GCC && operator not supported
+"../main.c", line 64: error #29: expected an expression
+"../main.c", line 72: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 72: error #66: expected a ";"
+6 errors detected in the compilation of "../main.c".
+gmake: *** [main.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+ 
+>> Compilation failure
+subdir_rules.mk:7: recipe for target 'main.obj' failed
+"../main.c", line 56: error #1489: GCC && operator not supported
+"../main.c", line 56: error #29: expected an expression
+"../main.c", line 64: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 64: error #66: expected a ";"
+"../main.c", line 64: error #1489: GCC && operator not supported
+"../main.c", line 64: error #29: expected an expression
+"../main.c", line 72: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 72: error #66: expected a ";"
+6 errors detected in the compilation of "../main.c".
+gmake: *** [main.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+ 
+>> Compilation failure
+subdir_rules.mk:7: recipe for target 'main.obj' failed
+"../main.c", line 56: error #1489: GCC && operator not supported
+"../main.c", line 56: error #29: expected an expression
+"../main.c", line 64: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 64: error #66: expected a ";"
+3 errors detected in the compilation of "../main.c".
+gmake: *** [main.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+ 
+>> Compilation failure
+subdir_rules.mk:7: recipe for target 'main.obj' failed
+"../main.c", line 56: error #29: expected an expression
+"../main.c", line 64: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 64: error #66: expected a ";"
+2 errors detected in the compilation of "../main.c".
+gmake: *** [main.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+ 
+>> Compilation failure
+subdir_rules.mk:7: recipe for target 'main.obj' failed
+"../main.c", line 50: error #18: expected a ")"
+"../main.c", line 55: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 55: error #128: expected a statement
+2 errors detected in the compilation of "../main.c".
+gmake: *** [main.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+Finished building: "../main.c"
+ 
+Building target: "Group25_Task1.out"
+Invoking: Arm Linker
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"Group25_Task1.map" --heap_size=0 --stack_size=512 -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/lib" -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Group25_Task1_linkInfo.xml" --rom_model -o "Group25_Task1.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -llibc.a 
+<Linking>
+Finished building target: "Group25_Task1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+Finished building: "../main.c"
+ 
+Building target: "Group25_Task1.out"
+Invoking: Arm Linker
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"Group25_Task1.map" --heap_size=0 --stack_size=512 -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/lib" -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Group25_Task1_linkInfo.xml" --rom_model -o "Group25_Task1.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -llibc.a 
+<Linking>
+Finished building target: "Group25_Task1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+Finished building: "../main.c"
+ 
+Building target: "Group25_Task1.out"
+Invoking: Arm Linker
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"Group25_Task1.map" --heap_size=0 --stack_size=512 -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/lib" -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Group25_Task1_linkInfo.xml" --rom_model -o "Group25_Task1.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -llibc.a 
+<Linking>
+Finished building target: "Group25_Task1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+Finished building: "../main.c"
+ 
+Building target: "Group25_Task1.out"
+Invoking: Arm Linker
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"Group25_Task1.map" --heap_size=0 --stack_size=512 -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/lib" -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Group25_Task1_linkInfo.xml" --rom_model -o "Group25_Task1.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -llibc.a 
+<Linking>
+Finished building target: "Group25_Task1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+gmake[1]: 'Group25_Task1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+gmake[1]: 'Group25_Task1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task2 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../tm4c123gh6pm_startup_ccs.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task2" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="tm4c123gh6pm_startup_ccs.d_raw"  "../tm4c123gh6pm_startup_ccs.c"
+Finished building: "../tm4c123gh6pm_startup_ccs.c"
+ 
+Building file: "../Group25_Task2.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task2" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="Group25_Task2.d_raw"  "../Group25_Task2.c"
+Finished building: "../Group25_Task2.c"
+ 
+Building target: "Group25_Task2.out"
+Invoking: Arm Linker
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"Group25_Task2.map" --heap_size=0 --stack_size=512 -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/lib" -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Group25_Task2_linkInfo.xml" --rom_model -o "Group25_Task2.out" "./Group25_Task2.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -llibc.a 
+<Linking>
+Finished building target: "Group25_Task2.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task2 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+gmake[1]: 'Group25_Task2.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../Group25_Task1.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="Group25_Task1.d_raw"  "../Group25_Task1.c"
+"../Group25_Task1.c", line 15: warning #179-D: variable "i" was declared but never referenced
+Finished building: "../Group25_Task1.c"
+ 
+Building target: "Group25_Task1.out"
+Invoking: Arm Linker
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"Group25_Task1.map" --heap_size=0 --stack_size=512 -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/lib" -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Group25_Task1_linkInfo.xml" --rom_model -o "Group25_Task1.out" "./Group25_Task1.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -llibc.a 
+<Linking>
+Finished building target: "Group25_Task1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+Building file: "../Group25_Task1.c"
+Invoking: Arm Compiler
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab2/Group25_Task1" --include_path="/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="Group25_Task1.d_raw"  "../Group25_Task1.c"
+Finished building: "../Group25_Task1.c"
+ 
+Building target: "Group25_Task1.out"
+Invoking: Arm Linker
+"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"Group25_Task1.map" --heap_size=0 --stack_size=512 -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/lib" -i"/Applications/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Group25_Task1_linkInfo.xml" --rom_model -o "Group25_Task1.out" "./Group25_Task1.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -llibc.a 
+<Linking>
+Finished building target: "Group25_Task1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task1 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+gmake[1]: 'Group25_Task1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task2 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+gmake[1]: 'Group25_Task2.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Group25_Task2 ****
+
+/Applications/ti/ccs1271/ccs/utils/bin/gmake -k -j 7 all -O 
+ 
+gmake[1]: 'Group25_Task2.out' is up to date.
+
+**** Build Finished ****

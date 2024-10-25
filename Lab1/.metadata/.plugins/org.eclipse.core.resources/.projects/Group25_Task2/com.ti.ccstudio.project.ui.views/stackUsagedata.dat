@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<ofd>
+   <banner>TI ARM Clang Object File Display Unix v3.2.1.LTS</banner>
+   <copyright>Copyright (c) 1996-2018 Texas Instruments Incorporated</copyright>
+   <name>/Users/yashmanojmeshram/Desktop/ /sem 7/Embedded Systems/CCS Projects/Lab1/Lab1/Debug/Lab1.out</name>
+   <call_graph>
+      <function>
+         <name>main</name>
+         <stack_size>0x0</stack_size>
+         <makes_indirect_call>false</makes_indirect_call>
+         <file>main.c</file>
+         <line>0x5</line>
+         <address>0x20</address>
+         <is_combined>false</is_combined>
+         <definition_seen>true</definition_seen>
+         <has_stack_usage_info>true</has_stack_usage_info>
+         <producer>TI clang version 15.0.7 (ssh://git@bitbucket.itg.ti.com/code/llvm-project.git 07a08e324de4bf74724243639320ca02c0e00777)</producer>
+      </function>
+      <function>
+         <name>_c_int00_template</name>
+         <stack_size>0x0</stack_size>
+         <makes_indirect_call>false</makes_indirect_call>
+         <file>boot_cortex_m.c</file>
+         <line>0x2c</line>
+         <address>0x0</address>
+         <is_combined>false</is_combined>
+         <definition_seen>true</definition_seen>
+         <has_stack_usage_info>false</has_stack_usage_info>
+         <producer>TI clang version 15.0.7 (ssh://git@bitbucket.itg.ti.com/code/llvm-project.git 07a08e324de4bf74724243639320ca02c0e00777)</producer>
+      </function>
+      <function>
+         <name>_c_int00_noinit_noargs</name>
+         <stack_size>0x0</stack_size>
+         <makes_indirect_call>false</makes_indirect_call>
+         <file>boot_cortex_m.c</file>
+         <line>0x60</line>
+         <address>0x78</address>
+         <is_combined>false</is_combined>
+         <definition_seen>true</definition_seen>
+         <has_stack_usage_info>true</has_stack_usage_info>
+         <producer>TI clang version 15.0.7 (ssh://git@bitbucket.itg.ti.com/code/llvm-project.git 07a08e324de4bf74724243639320ca02c0e00777)</producer>
+         <callee>main</callee>
+         <callee></callee>
+         <callee>_system_pre_init</callee>
+         <callee>abort</callee>
+      </function>
+      <function>
+         <name></name>
+         <stack_size>0x0</stack_size>
+         <makes_indirect_call>false</makes_indirect_call>
+         <file></file>
+         <line>0x0</line>
+         <address>0x0</address>
+         <is_combined>false</is_combined>
+         <definition_seen>false</definition_seen>
+         <has_stack_usage_info>false</has_stack_usage_info>
+         <producer></producer>
+      </function>
+      <function>
+         <name>_system_pre_init</name>
+         <stack_size>0x0</stack_size>
+         <makes_indirect_call>false</makes_indirect_call>
+         <file>pre_init.c</file>
+         <line>0x38</line>
+         <address>0xa4</address>
+         <is_combined>false</is_combined>
+         <definition_seen>true</definition_seen>
+         <has_stack_usage_info>true</has_stack_usage_info>
+         <producer>TI clang version 15.0.7 (ssh://git@bitbucket.itg.ti.com/code/llvm-project.git 07a08e324de4bf74724243639320ca02c0e00777)</producer>
+      </function>
+      <function>
+         <name>abort</name>
+         <stack_size>0x0</stack_size>
+         <makes_indirect_call>false</makes_indirect_call>
+         <file>exit.c</file>
+         <line>0x3b</line>
+         <address>0xa8</address>
+         <is_combined>false</is_combined>
+         <definition_seen>true</definition_seen>
+         <has_stack_usage_info>true</has_stack_usage_info>
+         <producer>TI clang version 15.0.7 (ssh://git@bitbucket.itg.ti.com/code/llvm-project.git 07a08e324de4bf74724243639320ca02c0e00777)</producer>
+      </function>
+   </call_graph>
+</ofd>
